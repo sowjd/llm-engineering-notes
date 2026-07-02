@@ -1,4 +1,4 @@
-# Prompt_Engineering
+# Prompt Engineering
 
 ## 1. Zero-shot
    - 작업 설명만 전달해 결과를 요청하는 프롬프트 방식
